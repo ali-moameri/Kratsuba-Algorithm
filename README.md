@@ -3,7 +3,7 @@ Kratsuba algorithm implementation using C++17 for large multiplications.
 
 ## How it works?
 
-To multiply `x` and `y` with `n` digits we can do:
+To multiply `a` and `b` with `n` digits we can do:
 
 `10n · (a·c) + 10n/2 · (a·d + b·c) + b·d`
 
